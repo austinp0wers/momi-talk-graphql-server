@@ -1,0 +1,6 @@
+type UserModel {
+  id: ID!
+  seq: String!
+  nickname: String!
+  dueDate: String!
+}
