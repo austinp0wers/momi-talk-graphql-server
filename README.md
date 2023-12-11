@@ -5,6 +5,7 @@
 ```
 RUNNING_PORT=4000
 MYSQL_HOST=localhost
+# docker 로 mysql을 띄웠으며 port forwarding을 하는 중입니다.
 MYSQL_PORT=3308
 MYSQL_USERNAME=root
 MYSQL_PASSWORD=1234
